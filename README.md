@@ -1,4 +1,3 @@
-# Higher-or-Lower-Game
 # Higher or Lower Game
 
 Welcome to the **Higher or Lower Game**, a fun and interactive way to test your knowledge of social media popularity! In this game, you'll compare two social media accounts and guess which one has more followers. Rack up points by making correct guesses, and challenge yourself to achieve the highest score possible.
